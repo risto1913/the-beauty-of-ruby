@@ -1,9 +1,13 @@
 ## The basis of iterators, blocks, proc, lambda
   
 **iterators** : `each`, `map`, `inject`, `collect`, `sort`, `sort`
+
 **blocks**    :
+
 **proc**      :
+
 **lambda**    : 
+
 ## When you are using a block
 
 Instead of doing like :
