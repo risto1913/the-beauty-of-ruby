@@ -53,6 +53,7 @@ me.getName(); // changed
 I really thanks Java, compare to Java, Ruby is really a Ruby. Let's see the Ruby way, hold your breath : 
 ``` ruby
 class Person
+  attr_reader :name
   
   def initialize
     @name = "I am the person"
