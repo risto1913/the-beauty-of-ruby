@@ -1,6 +1,9 @@
-# Before you start to learn the block tricks, please be sure you know the following basic knowledge
+## The basis of iterators, blocks, proc, lambda
   
-how to use these iterators : `each`, `map`, `inject`, `collect`, `sort`, `sort`
+**iterators** : `each`, `map`, `inject`, `collect`, `sort`, `sort`
+**blocks**    :
+**proc**      :
+**lambda**    : 
 ## When you are using a block
 
 Instead of doing like :
