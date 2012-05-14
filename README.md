@@ -50,3 +50,13 @@ Every rails master is a ruby master, rails is writen in ruby. To learn more , yo
 In other languages and framework, you are in a cave, but in ruby and rails, it's like a grassland, you can see as more as you can see, the limitation is just yourself. Take me as an example, through rails, I have known **NoSql Mongodb**, **NodeJS**, **Backbonejs**, **Auto deployment**, **TDD**, **BDD**, **Pair progamming**, **Functional Programming**, **Agile methodology**, **github**, although I am not a master in any of the above field, but now I am totally openminded, I know which technology I could use in my next project.
 
 #### Learning rails is not only rails, you will learn a lot of things in softare industry.
+
+## 8. Catch up with the community, try new things.
+
+The community is very activity. You can see a lot of messages from internet everyday. You need follow some some people or some websites, try new things, and know it deeply. For example, you can install ruby in ubuntu just by the command `sudo apt-get install ruby`, actually, you should use **rvm**, it can manage all the ruby installations. Instead of deploying website to a server by copy paste, you can use capistrano to deploy application very easily and it's matianable. You can use **heroku** to deploy application for free at the very beginning. You can use **new relic** to analysis your application to find the bottleneck of the application. Because of the spirit of ruby and rails, there are a lot of new things, including platform, technology, resources, those you can use to improve yourself. I think people do not need to master all of these stuff at first, but knowing these could help people get a big picture of **morden developing technology**, the main idea is that using resources those are already exsited, and follow the best practice those are recommended by the community.
+
+#### The best thing of the open source is that people can have the oppotunities to know what have made the magic. And it's not all, there is a big effect for people who are following the open source communities, they could be master in someday, because if nobody can provide new things for them, they will invent some for the community. Ruby and Rails are both opensourced, that makes the success. So you should join the community, to see what is happening, to know how to do it, and finally, you will be involved.  
+
+-------------------------------------------------------------------
+
+**This post is under versioned, I will add or modify something when I have new ideas, I hope this could help someone to really understand the ruby and rails. Although I am not a master in any field of ruby and rails. I think I have got the right way to work with them.**
