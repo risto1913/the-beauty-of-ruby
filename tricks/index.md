@@ -50,7 +50,7 @@ me.getName(); // I am the person
 me.setName("changed");
 me.getName(); // changed
 ```
-I really thanks Java, compare to Java, Ruby is really a Ruby. Let's see the Ruby way, hold your breath : 
+I really thanks Java, compare to Java, Ruby is really a Ruby. Let's see the Ruby way : 
 ``` ruby
 class Person
   attr_reader :name
